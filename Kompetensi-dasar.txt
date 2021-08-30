@@ -5,6 +5,3 @@ b). Komunikasi Daring Asinkron
   - Email
 c). Github
   - Membuat akun
-
-d). Git
-  - Belum
